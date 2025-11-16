@@ -1,4 +1,5 @@
-![logo](https://github.com/rajbdonga/rajbdonga/blob/main/Raj%20Donga%20(2).png)
+![logo](https://github.com/rajbdonga/rajbdonga/blob/main/<img width="1584" height="396" alt="Black Elegant Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/2687bb78-25d5-428e-9c97-a4b99ea14501" />
+)
 
 <h1 align="center">Hi 👋, I'm Raj Donga</h1>
 <h3 align="center">🌟 A passionate Computer Engineer from India 🌟</h3>
